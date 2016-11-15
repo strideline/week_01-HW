@@ -1,0 +1,13 @@
+h1 {
+  color: #333333;
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  font-size: 22px;
+
+}
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
